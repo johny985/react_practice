@@ -7,8 +7,8 @@ class ReadContent extends Component {
         <h2>{this.props.title}</h2>
         {this.props.desc}
       </article>
-    )
+    );
   }
 }
 
-export default ReadContent
+export default ReadContent;
